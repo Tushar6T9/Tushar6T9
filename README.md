@@ -9,4 +9,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar6t9)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/TuShar6T9)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/TuShar6T9)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tushar6T9.Tushar6T9&format=true)
